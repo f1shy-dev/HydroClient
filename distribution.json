@@ -9,14 +9,9 @@
          "name":"BruhMC Survival Server",
          "description":"Friendly Private SMP",
          "icon":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
-         "version":"3.9.4",
+         "version":"0.0.1",
          "address":"mc.westeroscraft.com",
-         "minecraftVersion":"1.11.2",
-         "discord":{
-            "shortId":"Production",
-            "largeImageText":"WesterosCraft Production Server",
-            "largeImageKey":"server-prod"
-         },
+         "minecraftVersion":"1.16.3",
          "mainServer":true,
          "autoconnect":true,
          "modules":[
