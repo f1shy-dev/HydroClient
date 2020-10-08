@@ -3,6 +3,11 @@
     "java": {
         "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
     },
+    "discord": {
+        "clientId": "385581240906022916",
+        "smallImageText": "WesterosCraft",
+        "smallImageKey": "seal-circle"
+    },
     "servers": [
         {
             "id": "BruhMC-1.16.3",
@@ -14,6 +19,11 @@
             "minecraftVersion": "1.16.3",
             "mainServer": true,
             "autoconnect": true,
+            "discord": {
+                "shortId": "1.12.2 Production Server",
+                "largeImageText": "WesterosCraft 1.12.2 Production Server",
+                "largeImageKey": "server-prod"
+            },
             "modules": [
                 {
                     "id": "net.minecraftforge:forge:1.12.2-14.23.5.2847",
